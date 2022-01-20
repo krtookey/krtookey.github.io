@@ -1,2 +1,2 @@
 # krtookey.github.io
-sample
+CUrrent version is a sample of how to test homework.
